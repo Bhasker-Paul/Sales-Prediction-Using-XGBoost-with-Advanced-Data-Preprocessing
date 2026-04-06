@@ -88,4 +88,4 @@ This project shows how proper data preprocessing and feature engineering can sig
 ---
 
 ## ⭐ Author
-Bhaskar Paul
+Bhasker Paul
